@@ -13,7 +13,7 @@ Mr. hydrostaticcog of FerrisLand introduced the following bill.
 
 To provide the people with a preference on their exposure to NSFW content.
 
-*Be is enacted by the Senate and House of Representatives of the Federal Republic of Discordia in Congress assembled.*
+*Be it enacted by the Senate and House of Representatives of the Federal Republic of Discordia in Congress assembled.*
 
 ### Section 1: Short Name
     
