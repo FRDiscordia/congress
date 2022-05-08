@@ -28,6 +28,6 @@ the nsfw general channel.
 
 (b) Create the "Discordia Code", and insert the following:
     
-    Title I: No person shall be forced to view any material that could be considered sexual without their consent.
+    Title I: No person shall be forced to view or interact with any material that could be considered sexual without their consent.
 
 (c) The President shall have the power to enforce this law by mute, kick, and banning, subject to appeal to the courts.
