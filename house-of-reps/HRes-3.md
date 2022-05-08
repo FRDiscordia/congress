@@ -17,7 +17,7 @@ To provide the people with a preference on their exposure to NSFW content.
 
 ### Section 1: Short Name
     
-This Act may be cited as the "People's Preference Act of 2022"."
+This Act may be cited as the "People's Preference Act of 2022".
 
 ### Section 2: Directives
 
