@@ -34,7 +34,7 @@ In all criminal prosecutions, the accused shall enjoy the right to a speedy and 
 
 ### Article 6
 
-In suits at common law, where the value in controversy shall exceed twenty dollars, the right of trial by jury shall be preserved, and no fact tried by a jury, shall be otherwise re-examined in any Court of the United States, than according to the rules of the common law.
+In suits at common law, where the value in controversy shall exceed twenty dollars, the right of trial by jury shall be preserved, and no fact tried by a jury, shall be otherwise re-examined in any Court of the FRD, than according to the rules of the common law.
 
 ### Article 7
 
@@ -52,9 +52,9 @@ Neither slavery nor involuntary servitude, except as a punishment for crime wher
 
 #### Section 2
 
-All persons born or naturalized in the United States, and subject to the jurisdiction thereof, are citizens of the United States and of the State wherein they reside. No State shall make or enforce any law which shall abridge the privileges or immunities of citizens of the United States; nor shall any State deprive any person of life, liberty, or property, without due process of law; nor deny to any person within its jurisdiction the equal protection of the laws.
+All persons born or naturalized in the FRD, and subject to the jurisdiction thereof, are citizens of the FRD and of the State wherein they reside. No State shall make or enforce any law which shall abridge the privileges or immunities of citizens of the FRD; nor shall any State deprive any person of life, liberty, or property, without due process of law; nor deny to any person within its jurisdiction the equal protection of the laws.
 
-The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of race, color, or previous condition of servitude.
+The right of citizens of the FRD to vote shall not be denied or abridged by the FRD or by any State on account of race, color, or previous condition of servitude.
 
 #### Section 3
 
