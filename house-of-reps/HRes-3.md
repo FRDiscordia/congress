@@ -2,12 +2,13 @@
 ## 1st Congress, First Session
 
 To provide the people with a preference on their exposure to NSFW content.
-## --------
+
+**--------**
 ## House of Representatives
 ### May 8th, 2022
 Mr. hydrostaticcog of FerrisLand introduced the following bill.
-## --------
 
+**--------**
 # A BILL
 
 To provide the people with a preference on their exposure to NSFW content.
