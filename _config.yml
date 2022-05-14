@@ -1,1 +1,14 @@
 theme: jekyll-theme-leap-day
+index_pages:
+  house:
+    title: House of Representatives Resolutions
+    excerpt: FRD House of Representatives Resolutions
+    per_page: 20
+    permalink: /house-of-reps/
+    layout: blog
+  senate:
+    title: Senate Resolutions
+    excerpt: FRD Senate Resolutions
+    per_page: 20
+    permalink: /senate/
+    layout: blog
